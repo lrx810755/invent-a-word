@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # A new English word, with its one-line definition.
+# One line, 105 characters, within the 140 character limit.
 WORD = "Tabnesia (n.): the sudden amnesia that strikes when you open a new tab and forget what you opened it for."
 
 
